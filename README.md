@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sayali datir</h1>
-<h3 align="center">A passionate python developer from India</h3>
+
 
 
 
